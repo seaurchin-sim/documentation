@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://seaurchin.kb10uy.org/"
+languageCode = "ja-jp"
+title = "Seaurchin Documentation"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
